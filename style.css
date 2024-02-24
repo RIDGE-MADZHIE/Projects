@@ -7,3 +7,9 @@ Body{
     color: rgb(84, 74, 65);
     font-family: sans-serif;
 }
+.celsius{
+    background-color: blue;
+    colour: white;
+    border: 3px;
+    
+}
